@@ -1,4 +1,4 @@
-<img src="https://github.com/vivsnguyen/vivsnguyen/blob/master/Vivi's%20Github.png?raw=true" alt="header image that says Vivi's GitHub - new commits everyday">
+<img src="https://github.com/vivsnguyen/vivsnguyen/blob/master/Vivi's%20Github.png?raw=true =50x" alt="header image that says Vivi's GitHub - new commits everyday">
 
 ### Hi there 👋 My name is Vivi Nguyen.
 
