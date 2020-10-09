@@ -2,7 +2,7 @@
 
 ### Hi 👋 I'm Vivi.
 
-I am a recent graduate of Hackbright Academy (March 2020) seeking full-time employment as a software engineer. 
+I am a graduate of Hackbright Academy (March 2020) seeking full-time employment as a software engineer. 
 - 🌱 I’m currently working on ...
   - **FreshMaps** : This project is through Wonsulting, an online mentorship organization that helps those from non-traditional backgrounds achieve their career goals. I am working in a group with 3 others as the developer for this web-app to make fresh produce in Oakland easier to find.
   - **Cracking The Coding Interview** : a classic.
