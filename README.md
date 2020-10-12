@@ -7,6 +7,7 @@ I am a graduate of Hackbright Academy (March 2020) seeking full-time employment 
   - **FreshMaps** : This project is through Wonsulting, an online mentorship organization that helps those from non-traditional backgrounds achieve their career goals. I am working in a group with 3 others as the developer for this web-app to make fresh produce in Oakland easier to find.
   - **Cracking The Coding Interview** : a classic.
   - **Playlistify** : cleaning up my code before version 2!
+  - **LikeSearcher** : using the Twitter API to search through my liked tweets
 - 😄 My pronouns are **she/her/hers**.
 - 👀 I care about intersectionality in tech, sustainability, and education. 
 - 📫 You can reach me on **[LinkedIn](https://www.linkedin.com/in/thuyvi-nguyen/)**.
