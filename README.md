@@ -3,7 +3,10 @@
 ### Hi 👋 I'm Vivi.
 
 I am a graduate of Hackbright Academy (March 2020) seeking full-time employment as a software engineer. 
-- 🌱 I’m currently working on ...
+
+I'm currently interning at Curai!
+
+- 🌱 I’m working on ...
   - **Cracking The Coding Interview** : studying and taking notes.
   - **Playlistify** : cleaning up my code before version 2!
   - **LikeSearcher** : using the Twitter API to search through my liked tweets
