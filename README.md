@@ -4,18 +4,18 @@
 
 I am a graduate of Hackbright Academy (March 2020) seeking full-time employment as a software engineer. 
 
-I'm currently interning at Curai!
-
-- 🌱 I’m working on ...
-  - **Cracking The Coding Interview** : studying and taking notes.
-  - **Playlistify** : cleaning up my code before version 2!
-  - **LikeSearcher** : using the Twitter API to search through my liked tweets
+- 🌱 I'm currently interning at Curai :)
 - 😄 My pronouns are **she/her/hers**.
 - 👀 I care about intersectionality in tech, sustainability, and education. 
 - 📫 You can reach me on **[LinkedIn](https://www.linkedin.com/in/thuyvi-nguyen/)**.
  
 <!--
 **vivsnguyen/vivsnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 🌱 I’m working on ...
+  - **Cracking The Coding Interview** : studying and taking notes.
+  - **Playlistify** : cleaning up my code before version 2!
+  - **LikeSearcher** : using the Twitter API to search through my liked tweets
 
 Here are some ideas to get you started:
 
