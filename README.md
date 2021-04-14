@@ -2,7 +2,7 @@
 
 ### Hi 👋 I'm Vivi.
 
-I am a graduate of Hackbright Academy (March 2020) seeking full-time employment as a software engineer. 
+I am a graduate of Hackbright Academy seeking full-time employment as a software engineer. 
 
 - 🌱 I finished up my internship at Curai in April.
 - 😄 My pronouns are **she/her/hers**.
