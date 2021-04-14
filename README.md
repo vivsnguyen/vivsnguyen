@@ -4,7 +4,7 @@
 
 I am a graduate of Hackbright Academy (March 2020) seeking full-time employment as a software engineer. 
 
-- 🌱 I'm currently interning at Curai :)
+- 🌱 I finished up my internship at Curai in April.
 - 😄 My pronouns are **she/her/hers**.
 - 👀 I care about intersectionality in tech, sustainability, and education. 
 - 📫 You can reach me on **[LinkedIn](https://www.linkedin.com/in/thuyvi-nguyen/)**.
